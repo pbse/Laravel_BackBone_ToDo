@@ -1,0 +1,5 @@
+.edit {display : none;}
+.editing .view {display:none;}
+.editing .edit {display:inline-block;}
+.form-inline {margin:10px;}
+.form-inline .form-control {width:100%;}
